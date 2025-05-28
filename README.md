@@ -4,7 +4,7 @@
 
 This is the official repository for [sanketh.org](https://sanketh.org), the website of **Sanketh Social Awareness Organization**.
 
-## 🌐 About Sanketh
+## About Sanketh
 
 Sanketh is a registered social awareness organization under the Registrar of Societies, Hyderabad (South), Government of Telangana. We are working towards obtaining 12A and 80(G) certifications to further enhance our credibility and reach.
 
@@ -17,6 +17,6 @@ Every Sanketh program is:
 
 Our financial activities are audited annually by **Saachi Associates**, ensuring high standards of financial efficiency and transparency.
 
-## 📬 Contact
+## Contact
 
 For more details or to get involved, please visit [https://sanketh.org](https://sanketh.org) or reach out to us via our contact page.
