@@ -2,7 +2,7 @@
 
 **Sanketh... For Better Life**
 
-This is the official repository for [sanketh.org](https://sanketh.org), the website of **Sanketh Social Awareness Organization**.
+This is the official repository for [sanketh.org](https://sanketh.org.in), the website of **Sanketh Social Awareness Organization**.
 
 ## About Sanketh
 
@@ -19,4 +19,4 @@ Our financial activities are audited annually by **Saachi Associates**, ensuring
 
 ## Contact
 
-For more details or to get involved, please visit [https://sanketh.org](https://sanketh.org) or reach out to us via our contact page.
+For more details or to get involved, please visit [https://sanketh.org.in](https://sanketh.org.in) or reach out to us via our contact page.
